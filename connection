@@ -1,0 +1,8 @@
+postgresql://walmart_db_owner:npg_D1s9HIJnzuta@ep-restless-dew-b3k2upgh-pooler.c-4.ap-southeast-1.aws.neon.tech/walmart_db?sslmode=require&channel_binding=require
+
+Database name: walmart_db
+Host: ep-restless-dew-b3k2upgh-pooler.c-4.ap-southeast-1.aws.neon.tech
+Port: 5432 (default, already filled)
+User: walmart_db_owner (already filled)
+Password: npg_D1s9HIJnzuta
+Connection name: walmart_conn (already filled, fine as-is)
